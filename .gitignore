@@ -1,0 +1,6 @@
+node_modules
+.vscode
+*.env
+*.pem
+
+.DS_Store

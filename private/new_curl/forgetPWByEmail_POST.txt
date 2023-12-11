@@ -1,0 +1,3 @@
+curl --location 'http://localhost:3001/user/forgetPWByEmail' \
+--header 'Content-Type: application/json' \
+--data-raw '{"email":"yingtinchan@gmail.com","verifyUrl":"http://localhost:3001/user/verify/"}'
